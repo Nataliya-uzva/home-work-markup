@@ -1,0 +1,32 @@
+.schedule {
+    list-style-type: none;
+}
+
+.schedule-title {
+    text-align: center;
+    font-weight: 600;
+    color: midnightblue;
+}
+
+.schedule--logo {
+    width: 40px;
+}
+.schedule--day {
+    display: inline-block;
+    margin: 20px;
+    vertical-align: top;
+    max-width: 270px;
+}
+
+.schedule--day-title {
+    text-align: center;
+    font-weight: 600;
+    color: navy;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.schedule--activity {
+    margin: 5px 0;
+}
+
